@@ -23,7 +23,7 @@
       "import": "./dist/audio-player-synk.js",
       "require": "./dist/audio-player-synk.umd.cjs"
     },
-    "./dist/index.css": "./dist/style.css"
+    "./dist/index.css": "./dist/audio-player-synk.css"
   },
   "engines": {
     "node": ">=18"

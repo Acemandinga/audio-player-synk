@@ -7,12 +7,12 @@
   cursor: pointer;
   border-radius: 5px;
   font-size: 16px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Synkosis', sans-serif;
 }
 
 .active {
   color: var(--playlistTextHoverActive);
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Synkosis', sans-serif;
   font-size: 18px;
 }
 
