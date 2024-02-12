@@ -1,5 +1,5 @@
 {
-  "name": "@madzadev/audio-player",
+  "name": "@acemandinga/audio-player-synk",
   "version": "2.1.3",
   "description": "React/NextJS audio player for your music, with custom controls, playlist, filters, and search functionality.",
   "keywords": [
@@ -12,24 +12,16 @@
   ],
   "author": "Madza <hi@madza.dev> (http://madza.dev)",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/madzadev/audio-player.git"
-  },
-  "homepage": "https://audioplayer.madza.dev/",
-  "bugs": {
-    "url": "https://github.com/madzadev/audio-player/issues"
-  },
   "type": "module",
   "files": [
     "dist"
   ],
-  "main": "./dist/audio-player.umd.cjs",
-  "module": "./dist/audio-player.js",
+  "main": "./dist/audio-player-synk.umd.cjs",
+  "module": "./dist/audio-player-synk.js",
   "exports": {
     ".": {
-      "import": "./dist/audio-player.js",
-      "require": "./dist/audio-player.umd.cjs"
+      "import": "./dist/audio-player-synk.js",
+      "require": "./dist/audio-player-synk.umd.cjs"
     },
     "./dist/index.css": "./dist/style.css"
   },

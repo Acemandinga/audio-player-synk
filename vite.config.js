@@ -6,7 +6,7 @@ export default defineConfig({
     lib: {
       entry: resolve(__dirname, "src/App.jsx"),
       name: "Audio Player",
-      fileName: "audio-player",
+      fileName: "audio-player-synk",
     },
     rollupOptions: {
       external: ["react", "react-dom"],
